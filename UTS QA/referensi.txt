@@ -1,8 +1,0 @@
-Dicoding
-https://www.dicoding.com/blog/white-box-testing/
-Glints
-https://glints.com/id/lowongan/unit-testing-adalah/
-Circleci
-https://circleci.com/blog/what-is-a-ci-cd-pipeline/
-spiceworks
-https://www.spiceworks.com/tech/devops/articles/what-is-ci-cd/
