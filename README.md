@@ -59,4 +59,3 @@ to access swagger use url `localhost:5000/apidocs`
  - Unit test coverage
  - CI setup 
 
-
